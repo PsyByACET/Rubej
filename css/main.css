@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: url(../img/fon.jpg) no-repeat center top / cover;
+    height: 100vh;
+}
+.container {
+    width: 86%;
+    border: 2px solid red;
+    margin: 0 auto;
+}
+header h1{
+    color: white;
+    text-transform: uppercase;
+    font-family: Arial;
+    text-align: center;
+    font-size: 8vh;
+    margin-top: 70px;
+}
+header h2 {
+
+}
